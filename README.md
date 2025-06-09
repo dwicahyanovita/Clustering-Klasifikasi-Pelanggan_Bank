@@ -1,7 +1,7 @@
-# Clustering(KMeans)-Klasifikasi(DecisionTree)-Pelanggan_Bank
+# Clustering(KMeans) dan Klasifikasi(DecisionTree) Pelanggan Bank
 
 ## Deskripsi
-Dengan menerapkan metode unsupervised learning, khususnya clustering, proyek ini bertujuan untuk membentuk segmentasi pelanggan yang merepresentasikan pola-pola pembelian yang serupa. Hasil segmentasi ini diharapkan dapat memberikan insight yang bernilai bagi pihak manajemen, khususnya dalam menyusun strategi promosi yang lebih tepat sasaran, mengembangkan program loyalitas, serta mengoptimalkan layanan pelanggan.
+Menerapkan metode unsupervised learning yaitu clustering, proyek ini bertujuan untuk membentuk segmentasi pelanggan bank yang merepresentasikan pola-pola pembelian yang serupa. Hasil segmentasi ini diharapkan dapat memberikan insight yang bernilai bagi pihak manajemen, khususnya dalam menyusun strategi promosi yang lebih tepat sasaran, mengembangkan program loyalitas, serta mengoptimalkan layanan pelanggan.
 ## Langkah-langkah Proyek
 
 ### 1. Persiapan Data
@@ -62,7 +62,7 @@ Setelah segmentasi selesai, dilakukan klasifikasi untuk memprediksi cluster pela
 ---
 
 **Dibuat dengan ❤️ oleh Dwi Cahya Novita**
-Untuk memenuhi tugas course **Belajar Machine Learning untuk Pemula** di **Dicoding**
+untuk memenuhi tugas course **Belajar Machine Learning untuk Pemula** di **Dicoding**
 
 ---
 
