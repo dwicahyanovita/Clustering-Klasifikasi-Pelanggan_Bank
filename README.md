@@ -61,7 +61,7 @@ Setelah segmentasi selesai, dilakukan klasifikasi untuk memprediksi cluster pela
 
 ---
 
-Made with ❤️ by Dwi Cahya Novita
+Dwi Cahya Novita
 untuk memenuhi tugas course **Belajar Machine Learning untuk Pemula** di **Dicoding**
 
 ---
